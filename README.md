@@ -64,5 +64,7 @@
    - [Data Synthesis](#data-synthesis) ................................... 
    - [Summary](#summary) ................................................. 
 
-... and so on for the remaining chapters.
+
+![image](https://github.com/user-attachments/assets/a3dd4e5c-ac14-4254-879d-4b490ef5ca71)
+
 
